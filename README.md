@@ -1,2 +1,11 @@
-# endermenfarm
-see readme
+# Endermen farm for XP and ender pearl, made by kelp.
+
+Download link to the endermen farm. 
+
+## Why github?
+
+Probably the link would last longer then uploading it to some random cloud or file dumpster.
+
+## How to use it?
+
+Download the file using the "download as ZIP" button and extract the zip file. Copy it to the C:\Users\USERNAME\AppData\Roaming\.minecraft\saves folder OR the /username/.minecraft/saves folder on GNU/Linux.
