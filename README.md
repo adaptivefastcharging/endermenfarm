@@ -4,7 +4,7 @@ Download link to the endermen farm.
 
 ## Why github?
 
-Probably the link would last longer then uploading it to some random cloud or file dumpster.
+Probably the link would last longer than uploading it to some random cloud or file dumpster.
 
 ## How to use it?
 
